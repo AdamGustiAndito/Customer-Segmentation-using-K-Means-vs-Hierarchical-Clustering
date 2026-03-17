@@ -1,6 +1,4 @@
 # 📊 Customer Segmentation using K-Means vs Hierarchical Clustering
-Data analysis project comparing K-Means and Hierarchical Clustering to identify customer segments and reduce churn in the fitness industry.
-
 
 ## 📌 Overview
 This repository contains the implementation and research work from my scientific paper:
@@ -8,23 +6,22 @@ This repository contains the implementation and research work from my scientific
 "Analisis Komparatif Metode K-Means dan Hierarchical Clustering untuk Segmentasi Pelanggan Pusat Kebugaran"
 The study focuses on comparing clustering methods to identify customer segments and support churn reduction strategies in the fitness industry.
 
-## 📄 Publication
-
-This paper has been officially published in:
-
-Prosiding Seminar Nasional Sains dan Teknologi (SAINTEK), Universitas Terbuka
-
-🔗 Full paper:
-https://conference.ut.ac.id/index.php/saintek/article/view/7999
-
 ## 🎯 Research Objectives
 - Compare the performance of K-Means and Hierarchical Clustering
 - Identify optimal customer segmentation
 - Evaluate clustering quality using multiple metrics
 - Provide business insights for customer retention strategy
 
+## 📄 Academic Context
+This research was conducted as part of the academic requirement for completing a scientific article in the Statistics program at Universitas Terbuka. This paper has been officially published in:
+
+Prosiding Seminar Nasional Sains dan Teknologi (SAINTEK), Universitas Terbuka
+
+🔗 Full paper:
+https://conference.ut.ac.id/index.php/saintek/article/view/7999
+
 ## 📊 Dataset
-- Source: Kaggle (Gym Customers Features and Churn)
+- Source: Kaggle ([Gym Customers Features and Churn](https://www.kaggle.com/datasets/adrianvinueza/gym-customers-features-and-churn))
 - Observations: 4000
 - Variables: 14 features (demographic & behavioral)
 
@@ -128,13 +125,16 @@ Customer Segments:
 - Matplotlib / Seaborn / Plotly
 
 ## 📂 Repository Structure
-- notebook.ipynb → Full analysis & modeling
-- paper.pdf → Published paper
-- data/ → Dataset (if included)
+- [notebook.ipynb](https://github.com/AdamGustiAndito/Customer-Segmentation-using-K-Means-vs-Hierarchical-Clustering/blob/main/Analisis%20Komparatif%20Metode%20K-Means%20dan%20Hierarchical%20Clustering%20dalam%20Segmentasi%20Pelanggan%20Pusat%20Kebugaran.ipynb) → Full analysis & modeling
+- [paper.pdf](https://github.com/AdamGustiAndito/Customer-Segmentation-using-K-Means-vs-Hierarchical-Clustering/blob/main/Analisis%20Komparatif%20Metode%20K-Means%20dan%20Hierarchical%20Clustering%20untuk%20Segmentasi%20Pusat%20Kebugaran.pdf) → Published paper
+- [dataset](https://github.com/AdamGustiAndito/Customer-Segmentation-using-K-Means-vs-Hierarchical-Clustering/blob/main/gym_churn_us.csv) → Dataset 
 
 ## 👤 Author
 Adam Gusti Andito
 Statistika - Universitas Terbuka
+📧 Contact me:
+- [LinkedIn](https://www.linkedin.com/in/adam-gusti-andito-1b04721b0/)
+- Email: adam.gustiandito@gmail.com
 
 ## ⚠️ License
 This project is for academic and research purposes only.
